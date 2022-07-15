@@ -8,17 +8,3 @@ in the past years or during my time at ETH.
 
 Some are still active projects, however I also do have a lot
 of unrealised ideas I could not fully pursue yet.
-***
-
-⚙️ [pentix/qjournalctl](https://github.com/pentix/qjournalctl)
-
-A multi-platform, Qt-based frontend for systemd's journalctl command.
-Accepting local as well as remote (SSH) data sources.
-
-***
-
-⚙️ [pentix/densor](https://github.com/pentix/densor)
-
-An approach to realize a service monitoring system as a distributed system, relying on modern protocols such as TLS1.3. By far not completed, work in progress! 
-
-***
